@@ -7,7 +7,7 @@ I have used two jupyter notebooks:
 2.) Deep Learning with Keras
 
 * Data Preprocessing envolves three steps: 
-** Resampling dataset, dropping Null values containing rows (there's only one row so we can drop it without hesitating)
+i) Resampling dataset, dropping Null values containing rows (there's only one row so we can drop it without hesitating)
 ii) Feature Engineering step where we create two feature - day of week and is base price equal to total price (we can also take difference which I took in deep learning model).
 iii) dropping unnecessaary features like date and recordID
 iv) Extra step for XGBoost and Deep Learning Model since they can't handle categorical features like sku_id and store_id, so we one hot encode these values.
