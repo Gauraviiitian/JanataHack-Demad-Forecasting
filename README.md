@@ -1,6 +1,6 @@
 # JanataHack-Demad-Forecasting
 Predictive Modeling for JanataHack: Demand Forecasting competition on Analytics Vidhya
-# competition link: https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/
+### competition link: https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/
 
 I have used two jupyter notebooks:
 1.) Decision Tree, Random Forest and XGBoost using sklearn
